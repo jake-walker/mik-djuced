@@ -1,0 +1,10 @@
+[package]
+name = "mik-djuced"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.93"
+directories = "5.0.1"
+itertools = "0.13.0"
+sqlite = "0.36.1"
